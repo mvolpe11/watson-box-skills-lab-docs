@@ -1,0 +1,9 @@
+{
+  "nlu_iam_key": "Uiel_5bLSmy4mRAWqJIKNLJgBR2DSj-2h81pD6rafTOu",
+  "url":"https://gateway.watsonplatform.net/natural-language-understanding/api",
+  "keywords": true,
+  "concepts": true,
+  "keyword_limit":5,
+  "concept_limit": 5,
+  "storage":"box"
+}
