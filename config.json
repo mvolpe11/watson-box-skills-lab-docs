@@ -1,6 +1,6 @@
 {
-  "nlu_iam_key": "ADD",
-  "url":"ADD",
+  "nlu_iam_key": "3ea29xKAprM5mvmiKDEpp2DKEpCOAVXb5stELsVCBhJT",
+  "url":"https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/9f2456e8-5a22-415d-b655-7e07ffdbc9eb",
   "keywords": true,
   "concepts": true,
   "keyword_limit":5,
